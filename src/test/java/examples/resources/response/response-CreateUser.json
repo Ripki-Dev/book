@@ -1,0 +1,5 @@
+{
+    "userID": "#string",
+    "username": "#string",
+    "books": "##[]"
+  }

@@ -1,0 +1,10 @@
+{
+    "errCode_1200": "1200",
+    "errCode_1210": "1210",
+    "errCode_1207": "1207",
+    "errCode_1205": "1205",
+    "err_usr_auth": "User not authorized!",
+    "err_usr_id": "User Id not correct!",
+    "err_isbn_not_avail": "ISBN supplied is not available in Books Collection!",
+    "err_usr_have_isbn": "ISBN already present in the User's Collection!"
+}

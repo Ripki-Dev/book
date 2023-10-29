@@ -6,8 +6,9 @@ function fn() {
   }
   var config = {
     env: env,
-    myVarName: 'someValue'
+    baseUrl: 'https://bookstore.toolsqa.com'
   }
+  config.faker = Java.type('net.datafaker.Faker');
   if (env == 'dev') {
     // customize
     // e.g. config.foo = 'bar';
